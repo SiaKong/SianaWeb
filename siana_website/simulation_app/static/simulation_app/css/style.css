@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: century gothic;
+}
+
+.homeDiv{
+    width: 100%;
+    height: 100vh;
+    padding-top: 17%;
+    padding-left: 15%;
+}
+.homeDiv h5{
+    text-transform: uppercase;
+}
+.homeDiv h1{
+    color: black;
+    text-transform: uppercase;
+    font-size: 10vh;
+    font-weight: 700;
+    margin: 0;
+}
+.homeDiv h3{
+    text-transform: uppercase;
+    color: #32a8d3;
+    font-size: 4.5vh;
+}
+.homeDiv p{
+    margin: 0;
+}
+
+#top.homeDiv{
+    background-color: white;
+    /*background-image: url(bgvid.mp4);
+    background-size: cover;*/
+}
+#middle.homeDiv{
+    background-color: sandybrown;
+}
+#bottom.homeDiv{
+    background-color: silver;
+}
